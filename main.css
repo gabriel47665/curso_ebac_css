@@ -1,0 +1,18 @@
+#ent-article{
+  color: orangered;
+}
+.ent-title {
+  color: orange;
+}
+.ent-content {
+  color: rgb(168, 138, 4);
+}
+#tech-article{
+  color: darkblue;
+}
+.tech-title {
+  color: blue;
+}
+.tech-content {
+  color: #0763af;
+}
